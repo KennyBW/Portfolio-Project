@@ -60,11 +60,11 @@ color:#272142;
 }
 
 .content-container {
-padding: 160px 20px;
+padding: 50px 20px;
 }
 
 .content {
-  margin: 30px;
+  margin:30px;
 }
 
 .content{
@@ -74,7 +74,7 @@ padding: 160px 20px;
 
 .content h1 {
   font-size: 64px;
-  line-height: 1.5; 
+  line-height:1.5; 
 }
 
 .content h2{
